@@ -2,6 +2,8 @@
 
 ### This app helps you to build your resume with some of the choosen templates, you can even customise your resume based on your requirements. 
 
+## Hosted Website: https://resume-builder-gules.vercel.app/
+
 ### Technologies that are used in this project.
   <ul>
     <li>React</li> 
